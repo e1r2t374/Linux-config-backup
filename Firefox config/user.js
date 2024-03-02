@@ -191,7 +191,7 @@ user_pref("dom.netinfo.enabled", false);
 user_pref("beacon.enabled", false);
 
 //Prevents invalid URI submitions
-user_pref("keyword.enabled", false);
+//user_pref("keyword.enabled", false);
 
 //Full Url
 user_pref("browser.urlbar.trimURLs", false);
