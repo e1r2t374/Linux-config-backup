@@ -1,4 +1,4 @@
-//Spoof useragent
+//Useragent spoofing
 user_pref("general.useragent.override","Mozilla/5.0 (Windows NT 6.1; rv:45.0) Gecko/20100101 Chrome/90.0.4430.212");
 user_pref("general.appname.override","Netscape");
 user_pref("general.appversion.override","5.0 (Windows)");
@@ -66,7 +66,7 @@ user_pref("browser.chrome.site_icons", false);
 user_pref("browser.shell.checkDefaultBrowser", false);
 user_pref("security.ssl.errorReporting.automatic", false);
 
-//Clicpboard event detection javascript
+//Clipboard event detection javascript
 user_pref("dom.event.clipboardevents.enabled", false);
 
 //Clipboard
