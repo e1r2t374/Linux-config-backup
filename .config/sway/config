@@ -152,7 +152,10 @@ output * bg /home/dark/.mnt.jpg stretch
 	bindsym $mod+e layout toggle split
 
 	# Fullscreen layout mode
-	bindsym $mod+f fullscreen
+	bindsym $mod+f11 fullscreen
+
+	# Toggle status bar
+	bindsym $mod+f bar mode toggle
 
 	# Toggle tiling and floating mode
 	bindsym $mod+Shift+space floating toggle
